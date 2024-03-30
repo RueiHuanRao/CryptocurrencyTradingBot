@@ -28,8 +28,6 @@ class FeatureEngineering:
         load_to_fit (bool): Indicates whether data should be loaded for fitting.
 
     Methods:
-        _print: Print a message with decorative borders.
-        _dec: A decorator for timing method execution.
         linear_fit: Calculate the linear regression slope.
         lr_bearish_bullish_signal: Identify bullish/bearish signals based on linear regression slope.
         add_rsi: Add the Relative Strength Index (RSI) to a DataFrame.

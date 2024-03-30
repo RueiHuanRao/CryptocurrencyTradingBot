@@ -12,7 +12,7 @@ import time
 symbol = "BTCEUR"
 resample_interval = "30min"
 df, df_resampled = data_for_optimisation(symbol, resample_interval)
-my_strategy = strategy_3  # noqa
+my_strategy = strategy_DEMO  # noqa
 
 
 class StrategyClass(Strategy):

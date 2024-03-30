@@ -15,6 +15,12 @@ from stable_baselines3 import PPO
 
 @dataclass
 class RLStrategy:
+    """
+    A class for implementing reinforcement learning-based trading strategies.
+
+    This class allows for training and evaluating reinforcement learning models
+    for stock trading using the Stable Baselines3 library.
+    """  # noqa
 
     rl_model: object = PPO
     policy: str = "MlpPolicy"
