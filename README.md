@@ -3,7 +3,7 @@ A project that using traditional (rule-based) strategies and RL algorithms to tr
 
 A brief overview of each part has been shown below.
 
-![project diagram](<Photos\Trading Bot diagram.png>)
+![project diagram](<Photos\Trading_Bot_Diagram.png>)
 
 ---
 ## Data Preprocessing
