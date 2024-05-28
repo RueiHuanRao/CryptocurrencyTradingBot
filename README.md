@@ -3,7 +3,8 @@ A project that using traditional (rule-based) strategies and RL algorithms to tr
 
 A brief overview of each part has been shown below.
 
-![project diagram](<Photos\Trading Bot diagram.png>)
+![Trading_Bot_Diagram](https://github.com/RueiHuanRao/CryptocurrencyTradingBot/assets/45893972/0dbda25c-7c6c-45dc-a556-a9fee8f04d67)
+
 
 ---
 ## Data Preprocessing
